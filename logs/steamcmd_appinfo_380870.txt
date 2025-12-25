@@ -8,7 +8,7 @@ Loading Steam API...OK
 Connecting anonymously to Steam Public...OK
 Waiting for client config...OK
 Waiting for user info...OK
-AppID : 380870, change number : 32967732/32967732, last change : Thu Dec 25 22:22:12 2025 
+AppID : 380870, change number : 32967732/32967732, last change : Thu Dec 25 22:52:19 2025 
 "380870"
 {
 	"common"
